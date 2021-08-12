@@ -1,7 +1,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=geoyee&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-### Hi, Welcome :smiling_imp:
+### Hi, have a good day! :smiling_imp:
 ``` python
 import os
 
