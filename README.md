@@ -1,11 +1,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=geoyee&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-### Hi, have a good day! :smiling_imp:
+### Hi, nice to meet you. :smiling_imp:
 ``` python
 import os
 
-print("hello world!")
+print("Have a good day!")
 os.system("shutdown -s -t 60")
 ```
 
