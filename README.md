@@ -6,7 +6,7 @@
 import os
 
 print("Have a good day!")
-os.system("shutdown -s -t 60")
+os.system("shutdown -s")
 ```
 
 <!--
