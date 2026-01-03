@@ -1,4 +1,4 @@
-# Hi 👋, I'm Geoyee
+# Hi 👋
 
 ### GIS Engineer
 
